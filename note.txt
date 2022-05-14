@@ -1,1 +1,2 @@
 the diagnosis table in the generated dataset is name "prognosis"
+random search is the implemention of cross validation & paramters tunning on all the existing algorithms when utilizing it the used model is a random one among the best estimators tested using it will cause the program to stop for like a min or 2 because it's computationally expensive (blocks main thread) I honestly could have made it run on a different thread but I see no point you'll have to wait in both cases even if for a less time.
