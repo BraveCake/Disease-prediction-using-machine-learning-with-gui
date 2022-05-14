@@ -1,0 +1,1 @@
+the diagnosis table in the generated dataset is name "prognosis"
